@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+*.tmp.npz
+data/cifar-10-python.tar.gz
+data/cifar10.npz
+data/ci_india_2023.npy
+results/ckpt_*.pt
+*.zip
+/figs/
